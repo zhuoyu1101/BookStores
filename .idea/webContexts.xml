@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/JDBC.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/JDBC/JDBC.jsp" value="file://$PROJECT_DIR$/web/JDBC" />
+        <entry key="file://$PROJECT_DIR$/web/JDBC/JDBC1.jsp" value="file://$PROJECT_DIR$/web/JDBC" />
+        <entry key="file://$PROJECT_DIR$/web/JDBC/JDBC3.jsp" value="file://$PROJECT_DIR$/web/JDBC" />
+        <entry key="file://$PROJECT_DIR$/web/JDBC1.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/admin/login/bottom.jsp" value="file://$PROJECT_DIR$/web/admin/login" />
+        <entry key="file://$PROJECT_DIR$/web/admin/login/home.jsp" value="file://$PROJECT_DIR$/web/admin/login" />
+        <entry key="file://$PROJECT_DIR$/web/admin/login/top.jsp" value="file://$PROJECT_DIR$/web/admin/login" />
+        <entry key="file://$PROJECT_DIR$/web/admin/orders/orderList.jsp" value="file://$PROJECT_DIR$/web/admin/orders" />
+        <entry key="file://$PROJECT_DIR$/web/admin/orders/orderView.jsp" value="file://$PROJECT_DIR$/web/admin/orders" />
+        <entry key="file://$PROJECT_DIR$/web/admin/products/delete.jsp" value="file://$PROJECT_DIR$/web/admin/products" />
+        <entry key="file://$PROJECT_DIR$/web/admin/products/download.jsp" value="file://$PROJECT_DIR$/web/admin/products" />
+        <entry key="file://$PROJECT_DIR$/web/admin/products/list.jsp" value="file://$PROJECT_DIR$/web/admin/products" />
+        <entry key="file://$PROJECT_DIR$/web/client/include/Cart.jsp" value="file://$PROJECT_DIR$/web/client/include" />
+        <entry key="file://$PROJECT_DIR$/web/client/include/Handle-AddCart.jsp" value="file://$PROJECT_DIR$/web/client/include" />
+        <entry key="file://$PROJECT_DIR$/web/client/include/Handle-register.jsp" value="file://$PROJECT_DIR$/web/client/include" />
+        <entry key="file://$PROJECT_DIR$/web/client/include/ProductList.jsp" value="file://$PROJECT_DIR$/web/client/include" />
+        <entry key="file://$PROJECT_DIR$/web/client/mainjsp/index.jsp" value="file://$PROJECT_DIR$/web/client/mainjsp" />
+        <entry key="file://$PROJECT_DIR$/web/client/mainjsp/register.jsp" value="file://$PROJECT_DIR$/web/client/mainjsp" />
+        <entry key="file://$PROJECT_DIR$/web/jdbcend.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/mainjsp/index.jsp" value="file://$PROJECT_DIR$/web/mainjsp" />
+        <entry key="file://$PROJECT_DIR$/web/register.html" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/register.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/validate/validate1.jsp" value="file://$PROJECT_DIR$/web/validate" />
+      </map>
+    </option>
+  </component>
+</project>

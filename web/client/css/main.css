@@ -1,0 +1,37 @@
+
+H2,H4{ color:green; font-family: 宋体;}
+h6{color:red}
+body{
+    background-image: url(../images/img.png);
+    background-repeat:no-repeat ;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    text-align: center;
+    vertical-align: middle;
+}
+table{
+    height: auto;
+    width: 60%;
+    margin:auto;
+}
+.tablelogin{
+    height: auto;
+    width: 50%;
+    margin:auto;
+}
+tfoot{
+    height: auto;
+    width: 40%;
+    margin:auto;
+}
+.divlisttitle{
+color: #EEEEEE;
+}
+.divbookpic{
+    width:115px;
+    height:129px;
+    border:0;
+}
+.divlisttitle{
+    color: black;
+}

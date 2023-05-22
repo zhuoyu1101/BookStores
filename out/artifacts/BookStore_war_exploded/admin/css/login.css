@@ -1,0 +1,37 @@
+#body_bottom{
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+    text-align: center;
+    vertical-align: middle;
+}
+#div_bottom{
+    height: 70px;
+    width: 100%;
+    margin:auto;
+    position: fixed;
+    bottom: 0px;
+    background-image: url(../images/bt_02.jpg);
+}
+
+#body_top{
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/*行高实现文字垂直居中*/
+#div_top_1{
+    height: 70px;
+    line-height: 70px;
+    width: 100%;
+    margin:auto;
+    bottom: 5px;
+}
+#div_top_2{
+    background-image: url(../images/mis_01.jpg);
+    margin:auto;
+    bottom: 5px;
+    float: right;
+    width: 100%;
+}

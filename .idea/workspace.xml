@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BookStore:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6d4f2e0-545a-49d4-bdd4-2fdb9dceba48" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/dao/impl/OrderDaoImpl.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JspContextManager">
+    <jsp-to-context jsp-file="file://$PROJECT_DIR$/web/admin/login/top.jsp" context-file="file://$PROJECT_DIR$/web/admin/login/home.jsp" />
+    <jsp-to-context jsp-file="file://$PROJECT_DIR$/web/admin/login/bottom.jsp" context-file="file://$PROJECT_DIR$/web/admin/login/home.jsp" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="true" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-tomcat-10.1.6" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2MX3QOEGQt2PobV0d6U5suiaTVU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ZhuoYu1101/IdeaProjects/BookStore/web/WEB-INF/lib&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.23878437&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.27222833&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/ZhuoYu1101/IdeaProjects/BookStore/web/client/include/indexServlet.jsp&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="domain" />
+      <recent name="servlet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZhuoYu1101\IdeaProjects\BookStore\web\WEB-INF\lib" />
+      <recent name="C:\Users\ZhuoYu1101\IdeaProjects\BookStore\web\admin\images" />
+      <recent name="C:\Users\ZhuoYu1101\IdeaProjects\BookStore\META-INF" />
+      <recent name="C:\Users\ZhuoYu1101\IdeaProjects\BookStore\web\client\images\productingImg" />
+      <recent name="C:\Users\ZhuoYu1101\IdeaProjects\BookStore\web\admin\login" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ZhuoYu1101\IdeaProjects\BookStore\src\util" />
+      <recent name="C:\Users\ZhuoYu1101\IdeaProjects\BookStore\web\WEB-INF\lib" />
+      <recent name="C:\Users\ZhuoYu1101\IdeaProjects\BookStore\src\filter" />
+      <recent name="C:\Users\ZhuoYu1101\IdeaProjects\BookStore\web" />
+      <recent name="C:\Users\ZhuoYu1101\IdeaProjects\BookStore\src\servlet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.home.jsp">
+    <configuration default="true" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="home.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/BookStore_war_exploded/admin/login/home.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 10.1.6" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.6" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="18" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="37cae5b9-e8b2-4949-9172-aafa37fbc09c" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="BookStore:ear exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+        <artifact name="BookStore:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/BookStore" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="428728dd-58c3-47ba-80e6-c3e57a264383" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51058" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BookStore:ear exploded" />
+          <artifact name="BookStore:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="home.jsp (1)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 10.1.6" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/admin/login/home.jsp" />
+      <deployment>
+        <artifact name="BookStore:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/BookStore_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="a3ee0097-735e-46bf-9562-a701a1548599" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BookStore:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="home.jsp (2)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 10.1.6" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/admin/login/home.jsp" />
+      <deployment>
+        <artifact name="BookStore:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/BookStore_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ff899ac6-a052-4992-86c7-556c73cdf61a" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BookStore:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="home.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 10.1.6" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/admin/login/home.jsp" />
+      <deployment>
+        <artifact name="BookStore:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/BookStore_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="21b099f3-42d0-4ab6-97b5-5c4aae34044b" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BookStore:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="orderList.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 10.1.6" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/admin/orders/orderList.jsp" />
+      <deployment>
+        <artifact name="BookStore:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/BookStore_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="0fd486df-9061-4b9e-9791-f3098abfecce" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BookStore:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.home.jsp" />
+      <item itemvalue="Tomcat Server.Tomcat 10.1.6" />
+      <item itemvalue="Tomcat Server.home.jsp" />
+      <item itemvalue="Tomcat Server.home.jsp (1)" />
+      <item itemvalue="Tomcat Server.home.jsp (2)" />
+      <item itemvalue="Tomcat Server.orderList.jsp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.home.jsp" />
+        <item itemvalue="Tomcat Server.orderList.jsp" />
+        <item itemvalue="Tomcat Server.home.jsp" />
+        <item itemvalue="Tomcat Server.home.jsp (2)" />
+        <item itemvalue="Tomcat Server.home.jsp (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6d4f2e0-545a-49d4-bdd4-2fdb9dceba48" name="Changes" comment="" />
+      <created>1677900090103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677900090103</updated>
+      <workItem from="1677900091215" duration="55000" />
+      <workItem from="1677900200896" duration="28213000" />
+      <workItem from="1677937374758" duration="5431000" />
+      <workItem from="1677942866086" duration="10382000" />
+      <workItem from="1677984232080" duration="4509000" />
+      <workItem from="1677992997235" duration="1934000" />
+      <workItem from="1678366015577" duration="825000" />
+      <workItem from="1678369462233" duration="5092000" />
+      <workItem from="1678379039181" duration="15000" />
+      <workItem from="1678426719488" duration="7626000" />
+      <workItem from="1678440691652" duration="20784000" />
+      <workItem from="1678511056449" duration="12633000" />
+      <workItem from="1678524009746" duration="184000" />
+      <workItem from="1678524652169" duration="231000" />
+      <workItem from="1678759396913" duration="2000" />
+      <workItem from="1678952605456" duration="105000" />
+      <workItem from="1678954576281" duration="742000" />
+      <workItem from="1678965030420" duration="240000" />
+      <workItem from="1678969915426" duration="1121000" />
+      <workItem from="1678972164783" duration="1761000" />
+      <workItem from="1678974864331" duration="1194000" />
+      <workItem from="1678979801074" duration="206000" />
+      <workItem from="1678982639989" duration="706000" />
+      <workItem from="1679031767588" duration="5738000" />
+      <workItem from="1679039054877" duration="16000" />
+      <workItem from="1679051823012" duration="8665000" />
+      <workItem from="1679108384128" duration="1556000" />
+      <workItem from="1679109957087" duration="19000" />
+      <workItem from="1679109985844" duration="11488000" />
+      <workItem from="1679139859587" duration="4172000" />
+      <workItem from="1679144047473" duration="7358000" />
+      <workItem from="1679458273446" duration="209000" />
+      <workItem from="1679556394467" duration="123000" />
+      <workItem from="1679579428919" duration="227000" />
+      <workItem from="1679598526894" duration="1520000" />
+      <workItem from="1679600665989" duration="540000" />
+      <workItem from="1679601220047" duration="256000" />
+      <workItem from="1679630796311" duration="307000" />
+      <workItem from="1679635727596" duration="1275000" />
+      <workItem from="1679639647777" duration="1607000" />
+      <workItem from="1679675382240" duration="595000" />
+      <workItem from="1679729127235" duration="2000" />
+      <workItem from="1679729154762" duration="957000" />
+      <workItem from="1679732455355" duration="2344000" />
+      <workItem from="1679814865021" duration="9343000" />
+      <workItem from="1679833215510" duration="5640000" />
+      <workItem from="1679916505674" duration="10415000" />
+      <workItem from="1679929824373" duration="4362000" />
+      <workItem from="1679934203031" duration="2207000" />
+      <workItem from="1679994827465" duration="75000" />
+      <workItem from="1679995489163" duration="1638000" />
+      <workItem from="1680008077838" duration="4358000" />
+      <workItem from="1680015281333" duration="293000" />
+      <workItem from="1680015585912" duration="195000" />
+      <workItem from="1680015790740" duration="3511000" />
+      <workItem from="1680021667259" duration="297000" />
+      <workItem from="1680055356312" duration="4431000" />
+      <workItem from="1680062933598" duration="188000" />
+      <workItem from="1680077860639" duration="806000" />
+      <workItem from="1680078681796" duration="386000" />
+      <workItem from="1680081067772" duration="625000" />
+      <workItem from="1680082296977" duration="990000" />
+      <workItem from="1680083358100" duration="2674000" />
+      <workItem from="1680090365052" duration="764000" />
+      <workItem from="1680240810610" duration="2083000" />
+      <workItem from="1680244882602" duration="2574000" />
+      <workItem from="1680259138626" duration="799000" />
+      <workItem from="1680357037302" duration="79000" />
+      <workItem from="1680365316949" duration="55000" />
+      <workItem from="1680366256043" duration="174000" />
+      <workItem from="1680366954701" duration="1615000" />
+      <workItem from="1680445678635" duration="145000" />
+      <workItem from="1680445977883" duration="1250000" />
+      <workItem from="1680502739579" duration="836000" />
+      <workItem from="1680510947687" duration="20335000" />
+      <workItem from="1680540277046" duration="1773000" />
+      <workItem from="1680543163634" duration="18000" />
+      <workItem from="1680701631100" duration="4486000" />
+      <workItem from="1680707558061" duration="140000" />
+      <workItem from="1680707710165" duration="423000" />
+      <workItem from="1680708145468" duration="4268000" />
+      <workItem from="1680712547420" duration="1595000" />
+      <workItem from="1680758974019" duration="5193000" />
+      <workItem from="1680764182014" duration="18000" />
+      <workItem from="1680764208639" duration="11934000" />
+      <workItem from="1680777462707" duration="1739000" />
+      <workItem from="1680779275884" duration="289000" />
+      <workItem from="1680846444754" duration="3309000" />
+      <workItem from="1680850652271" duration="49000" />
+      <workItem from="1680851078119" duration="1796000" />
+      <workItem from="1680853168242" duration="395000" />
+      <workItem from="1681293288348" duration="702000" />
+      <workItem from="1681310342651" duration="207000" />
+      <workItem from="1681358124970" duration="271000" />
+      <workItem from="1681362082609" duration="334000" />
+      <workItem from="1681386507582" duration="225000" />
+      <workItem from="1681388120699" duration="2594000" />
+      <workItem from="1681391006347" duration="3909000" />
+      <workItem from="1681444712945" duration="5181000" />
+      <workItem from="1681456570840" duration="7193000" />
+      <workItem from="1681710028335" duration="28150000" />
+      <workItem from="1681806258493" duration="6533000" />
+      <workItem from="1681882545002" duration="2476000" />
+      <workItem from="1681903564981" duration="1342000" />
+      <workItem from="1682056844793" duration="2513000" />
+      <workItem from="1682059547205" duration="1141000" />
+      <workItem from="1682060732977" duration="948000" />
+      <workItem from="1682062463318" duration="2370000" />
+      <workItem from="1682216564324" duration="2000" />
+      <workItem from="1682424971842" duration="9861000" />
+      <workItem from="1682443160268" duration="561000" />
+      <workItem from="1682444703855" duration="335000" />
+      <workItem from="1682468801343" duration="1306000" />
+      <workItem from="1682470123278" duration="788000" />
+      <workItem from="1682660022350" duration="4896000" />
+      <workItem from="1682672805581" duration="832000" />
+      <workItem from="1682678568265" duration="13519000" />
+      <workItem from="1682698618248" duration="4546000" />
+      <workItem from="1682703190111" duration="42000" />
+      <workItem from="1682703244884" duration="1691000" />
+      <workItem from="1683002483351" duration="171000" />
+      <workItem from="1683265561684" duration="3922000" />
+      <workItem from="1683269964560" duration="1807000" />
+      <workItem from="1683277558458" duration="698000" />
+      <workItem from="1683278593349" duration="331000" />
+      <workItem from="1683279218437" duration="666000" />
+      <workItem from="1683508326574" duration="3153000" />
+      <workItem from="1683528062089" duration="5298000" />
+      <workItem from="1683533492518" duration="350000" />
+      <workItem from="1683811459300" duration="329000" />
+      <workItem from="1683816065354" duration="234000" />
+      <workItem from="1683820283355" duration="2259000" />
+      <workItem from="1683869671250" duration="10535000" />
+      <workItem from="1683890398253" duration="5523000" />
+      <workItem from="1683898211507" duration="5077000" />
+      <workItem from="1684128841555" duration="10897000" />
+      <workItem from="1684159115075" duration="4383000" />
+      <workItem from="1684164559064" duration="1080000" />
+      <workItem from="1684216351482" duration="4275000" />
+      <workItem from="1684221512366" duration="17080000" />
+      <workItem from="1684283501361" duration="1386000" />
+      <workItem from="1684284916338" duration="8005000" />
+      <workItem from="1684385938849" duration="3090000" />
+      <workItem from="1684409551202" duration="1186000" />
+      <workItem from="1684413693588" duration="4566000" />
+      <workItem from="1684424534880" duration="286000" />
+      <workItem from="1684426508805" duration="76000" />
+      <workItem from="1684468166687" duration="6539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/JDBC/jdbcend.jsp</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/client/include/ProductList.jsp</url>
+          <line>64</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
